@@ -1,13 +1,25 @@
 .heading {
     text-align: center;
+    color: rgb(4, 29, 4);
+    background-color: rgb(196, 235, 196);
 }
 
 * {
-    font-family:'Lucida Sans', sans-serif
+    font-family:'Lucida Sans', sans-serif;
+    text-align: center;
+
 }
 
 img {
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+#link {
+    font-size: large;
+}
+
+li {
+    text-align: left;
 }
