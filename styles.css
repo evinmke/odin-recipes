@@ -18,8 +18,15 @@ img {
 
 #link {
     font-size: large;
+    color: rgb(4, 29, 4);
 }
 
 li {
     text-align: left;
 }
+
+button {
+    color: rgb(4, 29, 4);
+    background-color: rgb(196, 235, 196);
+}
+
