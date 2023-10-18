@@ -32,7 +32,9 @@ button {
     background-color: rgb(196, 235, 196);
     width: 200px;
     height: 50px;
+    margin: 5px;
 }
+
 
 html {
     background-color: rgb(232, 242, 232);
