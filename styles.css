@@ -30,6 +30,8 @@ li {
 button {
     color: rgb(4, 29, 4);
     background-color: rgb(196, 235, 196);
+    width: 200px;
+    height: 50px;
 }
 
 html {
